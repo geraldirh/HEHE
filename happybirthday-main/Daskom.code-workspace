@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"name": "Daskom",
+			"path": "../.."
+		},
+		{
+			"name": "Espeuy",
+			"path": "C:/Users/LQQ/Documents/PlatformIO/Projects/Espeuy"
+		},
+		{
+			"name": "sesp",
+			"path": "../../../sesp"
+		},
+		{
+			"name": "Konvert image Oled",
+			"path": "C:/Users/LQQ/Documents/PlatformIO/Projects/Konvert image Oled"
+		},
+		{
+			"name": "Dasai Mochi",
+			"path": "C:/Users/LQQ/Documents/PlatformIO/Projects/Dasai Mochi"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Daskom"
+	}
+}
